@@ -4,14 +4,9 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Emilia-github&theme=dracula)
 
- 
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Emilia-github&theme=dracula)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Emilia-github&theme=dracula)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Emilia-github&theme=dracula)
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Emilia-github&theme=dracula)
 
 ### Connect with me:
